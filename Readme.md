@@ -1,0 +1,3 @@
+语法分析器实验报告.pdf：实验报告的pdf文件
+LR1_parser目录：存储程序源文件
+LR1_parser_EXE目录：存储可执行文件，可以直接双击该目录下的LR1_parser.exe文件运行程序

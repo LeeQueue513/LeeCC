@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>background.jpg</file>
+        <file>help.html</file>
+    </qresource>
+</RCC>
